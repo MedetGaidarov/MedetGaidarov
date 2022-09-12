@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MedetGaidarov
-- 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning React, web development
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java deeply, web development
 - 💞️ I’m looking to collaborate on comma.ai
 - 📫 How to reach me mgaiidarov@gmail.com
 
